@@ -1,7 +1,7 @@
 # Amazon_Vine_Analysis
 
 ## Overview of the analysis: 
-Explain the purpose of this analysis.
+The following is an analysis of a dataset of Amazon reviews on pet products, written by members of the paid Amazon Vine program. The purpose of the analysis was to determine if there is a favorable review bias from Vine members. This analysis was requested by an account manager at BigMarket, to submit to the client, SellBy stakeholders.
 
 ## Results: 
 - Using bulleted lists and images of DataFrames as support, address the following questions:
